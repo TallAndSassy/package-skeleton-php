@@ -1,5 +1,5 @@
 # :package_description
-[![License](https://img.shields.io/github/license/spatie/enum)](https://github.com/:vendor_name/:package_name/blob/master/LICENSE.md)
+[![License](https://img.shields.io/github/license/:vendor_name/:package_name)](https://github.com/:vendor_name/:package_name/blob/master/LICENSE.md)
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/:vendor_name/:package_name.svg)](https://packagist.org/packages/:vendor_name/:package_name)
 [![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/:vendor_name/:package_name/Tests?label=tests)](https://github.com/:vendor_name/:package_name/actions?query=workflow%3ATests+branch%3Amaster)
 [![Total Downloads](https://img.shields.io/packagist/dt/:vendor_name/:package_name.svg)](https://packagist.org/packages/:vendor_name/:package_name)
